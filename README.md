@@ -2,4 +2,10 @@
 
 # Usage:
 
-yarn or npm install
+```sh 
+yarn 
+```
+or
+```sh
+npm install
+```
